@@ -1,0 +1,18 @@
+-d
+"C:\\Users\\Extreme PC\\Desktop\\Tarea_Extra_Clase_01\\build\\classes"
+-classpath
+"C:\\Users\\Extreme PC\\Desktop\\Tarea_Extra_Clase_01\\build\\classes;C:\\Users\\Extreme PC\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx-swt.jar;C:\\Users\\Extreme PC\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx.base.jar;C:\\Users\\Extreme PC\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx.controls.jar;C:\\Users\\Extreme PC\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx.fxml.jar;C:\\Users\\Extreme PC\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx.graphics.jar;C:\\Users\\Extreme PC\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx.media.jar;C:\\Users\\Extreme PC\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx.swing.jar;C:\\Users\\Extreme PC\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx.web.jar"
+-sourcepath
+"C:\\Users\\Extreme PC\\Desktop\\Tarea_Extra_Clase_01\\src"
+-target
+19
+-encoding
+UTF-8
+-g
+-processorpath
+"C:\\Users\\Extreme PC\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx-swt.jar;C:\\Users\\Extreme PC\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx.base.jar;C:\\Users\\Extreme PC\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx.controls.jar;C:\\Users\\Extreme PC\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx.fxml.jar;C:\\Users\\Extreme PC\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx.graphics.jar;C:\\Users\\Extreme PC\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx.media.jar;C:\\Users\\Extreme PC\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx.swing.jar;C:\\Users\\Extreme PC\\Documents\\javafx-sdk-19.0.2.1\\lib\\javafx.web.jar;C:\\Users\\Extreme PC\\Desktop\\Tarea_Extra_Clase_01\\build\\empty"
+-s
+"C:\\Users\\Extreme PC\\Desktop\\Tarea_Extra_Clase_01\\build\\generated-sources\\ap-source-output"
+-source
+19
+"C:\\Users\\Extreme PC\\Desktop\\Tarea_Extra_Clase_01\\src\\Main.java"
