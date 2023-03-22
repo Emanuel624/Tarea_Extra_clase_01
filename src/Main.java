@@ -222,10 +222,13 @@ public class Main extends Application {
                 int valor = miSuma.sumarOperacion(edad1, edad2);
                 String resultadoS = String.valueOf(valor);
                 ResultadoInput.setText(resultadoS); 
+                System.out.println("A");
             }
 
         });
-                
+        //Otra prueba por fa sirve
+        //Por fa hola hola prueba
+        
             
         //Boton "buttonMenos" así como los métodos asociados a su funcionamiento y nuevas clases llamadas
         Resta miResta = new Resta(); //Cambio necesario para poder utilizar metodos en estados no estaticos
