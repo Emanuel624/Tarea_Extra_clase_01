@@ -190,7 +190,7 @@ public class Main extends Application {
                 ProvinciasBox.setValue(null);       
         });
         GridPane.setConstraints(buttonMasPersonas, 1, 8);
-        
+        //xd
                     
         //Boton "buttonMas" así como los métodos asociados a su funcionamiento y nuevas clases llamadas
         Suma miSuma = new Suma(); //Cambio necesario para poder utilizar metodos en estados no estaticos
